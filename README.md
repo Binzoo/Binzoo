@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Binzoo
 - 👀 I’m interested in Java and C#
-- 🌱 I’m currently learning Software developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Software development 
 
 <!---
 Binzoo/Binzoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
