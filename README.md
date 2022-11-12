@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Binzoo
-- 👀 I’m interested in Java and C#
+- 👀 I’m interested in Java, Web developement and C#
 - 🌱 I’m currently learning Software development 
 
 <!---
