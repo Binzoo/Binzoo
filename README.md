@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Software development 
 
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=300 />
+<img align="right" alt="GIF" src="![image](https://github.com/Binzoo/Binzoo/assets/86844089/d8a36193-1c9b-47b1-b27d-7084089fb07e)
+" width=300 />
 <!-- 
 <img src="https://img.shields.io/badge/-Pratik%20Neupane.-black?style=for-the-badge" width=400>
 
