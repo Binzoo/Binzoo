@@ -6,7 +6,7 @@ I am a passionate software developer interested in Java, Web Development, and C#
 
 ## Connect With Me
 
-[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:binamrathapa015@gmail.com)
+[![Gmail](https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:binamrathapa015@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/binamra.thapa.96/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/binamra-thapa-5405ba23b/)
 
