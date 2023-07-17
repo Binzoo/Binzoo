@@ -47,6 +47,9 @@
 
 
 ## Github Stats
+<p>
+<img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Binzoo&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=Binzoo&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true" height=200>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binzoo&langs_count=3&theme=chartreuse-dark&hide_border=true&show_icons=true&hide=html,css,glsl" height=200>
 
