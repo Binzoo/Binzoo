@@ -1,6 +1,6 @@
 # Hi, I’m Binzoo! 👋
 
-I am a passionate software developer interested in Java, Web Development, and C#. Currently, I am actively learning and improving my skills in software development.
+I am a passionate software developer interested in Java, Javascript, and C#. Currently, I am actively learning and improving my skills in software development.
 
 ![GIF](https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif)
 
